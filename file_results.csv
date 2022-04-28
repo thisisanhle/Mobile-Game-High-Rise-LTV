@@ -1,0 +1,11 @@
+device_type,georegion,LTV
+iphone,ROW,0.19
+android,ROW,0.02
+iphone,NAm,0.59
+android,NAm,0.2
+iphone,Europe,0.42
+android,Europe,0.26
+iphone,JapanPlus,0.25
+android,JapanPlus,0.05
+iphone,LatAm,0.31
+android,LatAm,0.02
